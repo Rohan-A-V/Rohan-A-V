@@ -1,3 +1,5 @@
+![banner (1)](https://user-images.githubusercontent.com/94459565/189836357-c70acd48-31af-4b31-ab31-2290b9676858.png)
+
 <h1 align="center">Hi 👋, I'm Rohan A V</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
