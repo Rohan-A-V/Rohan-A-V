@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **rohanagv@gmail.com**
 
-- [MyPortfolio](https://rohan-a-v.github.io/#/home)
+<!-- - [MyPortfolio](https://rohan-a-v.github.io/#/home) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
