@@ -6,9 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohan-a-v&label=Profile%20views&color=0e75b6&style=flat" alt="rohan-a-v" /> </p>
 
 
-- 🌱 I’m currently learning **Data Analytics**
+- 🌱 I’m currently learning **Generative AI**
 
-- 💬 Ask me about **Data Science , Machine Learning**
+- 💬 Ask me about **Data Science, Machine Learning and Automation**
 
 - 📫 How to reach me **rohanagv@gmail.com**
 
